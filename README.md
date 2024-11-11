@@ -1,2 +1,2 @@
 # JavaChatbot
-Java Chatbot project
+Java Chatbot project demo
